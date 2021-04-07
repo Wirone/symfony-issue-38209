@@ -1,0 +1,4 @@
+app.foo.landing_page:
+    path: /
+    methods: [GET]
+    controller: App\Controller\LandingPageAction
